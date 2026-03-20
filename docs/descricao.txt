@@ -1,1 +1,1 @@
- Descricao da versao criada diretamente na main.
+Descrição consolidada da prática com Git em ambiente Linux.
